@@ -1,5 +1,5 @@
 # P1Proyecto1
-**Universdiad Nacional de Costa Rica**
+**Universidad Nacional de Costa Rica**
 
 **Programacion II**
 
